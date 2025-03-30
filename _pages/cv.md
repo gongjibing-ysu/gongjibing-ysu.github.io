@@ -1,10 +1,11 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
+permalink: /
+# layout: archive
+title: "基本信息"
+# permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv/
 ---
 
 {% include base_path %}
