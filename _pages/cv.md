@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "基本信息"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!-- # 宫继兵 教授简介 -->
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+宫继兵，男，燕山大学计算机系教授，博士生导师，中科院计算所博士，清华大学访问学者，美国UIC大学访问学者，燕山大学计算机系知识工程组实验室（KEG）负责人，**燕山大学-智谱AI大数据基础模型联合实验室负责人**。作为项目负责人主持SMP-智谱AI大模型交叉学科基金《基于大语言模型的机器人账号个性化培养及协同传播策略研究》，CCF-智谱AI大模型基金项目《基于预训练大模型的个性化推荐关键技术研究》和河北省自然科学基金项目《基于预训练大模型的个性化推荐关键技术研究》，作为课题负责人主持国家重点研发计划项目《XXX智能XXX洞察》。2012年新浪微博无线事业部门，负责智能推荐算法研发。河北省优秀指导教师、CCF优秀大学生奖指导教师。主要研究方向为**预训练大模型及应用、大数据挖掘、自然语言处理（NLP）、社交机器人、数据获取**等。在SIGIR、IJCAI、PR、TKDE、TWeb、CIKM、计算机三大学报、中国科学、清华大学学报等行业重要会议和期刊发表学术论文近60篇，SCI、EI收录30余篇，其中单篇论文下载阅读数量最多2352次（被引219次），所发表SIGIR’20论文被引次数达109次，发明专利10余项，软件著作权30余项，与机械工业出版社出版A类专著《可穿戴健康监测系统数据融合》以及大模型科技书籍《ChatGLM部署、微调与开发》。
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+作为核心会员单位参与制定IEEE P2807.4知识图谱国际标准 ，担任CCKS2022 Local co-chair、ADMA'2011 Publicity co-chair；担任CWSN'2013-2017、SMP'2014-2017，ADMA'2011，CSWS'2013， CCKS，PC Member；担任WSDM，TKDE，IJDSN，JCST，PLOS，TBD，FCS等顶级或知名期刊评委。作为课题负责人主持多项国家及省部委项目，担任中国计算机学会物联网专委会委员，中国中文信息学会社会媒体处理专委会委员，中国中文信息学会语言与知识计算专委会委员，CCF大模型论坛执行委员，获中国人工智能学会科技进步一等奖。
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## 教育经历（按时间倒序排序）  
+- **2008/09 - 2012/07**，**中国科学院**，计算机系统结构，博士（导师：崔莉）  
+- **2001/09 - 2003/07**，燕山大学，计算机软件及理论，硕士（导师：郭景峰）  
+- **1995/09 - 1999/07**，东北重型机械学院(现燕山大学)，计算机及应用，学士（导师：张红兵）  
+
+## 工作经历（按时间倒序排序）  
+- **2019/01 - 至今**，燕山大学，计算机科学系，教授  
+- **2018/08 - 2019/08**，伊利诺伊芝加哥分校 (UIC)，计算机科学系，访问学者  
+- **2012/03 - 2012/09**，新浪微博，无线事业部，研发工程师  
+- **2010/10 - 2018/12**，燕山大学，信息学院计算机系，副教授  
+- **2007/09 - 2008/07**，**清华大学**，计算机科学与技术系，青年骨干教师访问学者  
+- **2004/10 - 2010/09**，燕山大学，信息学院计算机系，讲师  
+- **1999/07 - 2004/09**，燕山大学，信息学院计算机系，助教  
