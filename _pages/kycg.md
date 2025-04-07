@@ -1,34 +1,74 @@
 ---
 layout: archive
-title: "数据成果"
-permalink: /sjcg/
+title: "科研成果"
+permalink: /kycg/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
 {% include base_path %}
-## 数据获取
-{% include base_path %}
-在大数据及人工智能背景下，燕山大学计算机系知识工程组实验室（KEG），利用机器学习及自然语言处理前沿技术，自主研发基于深度学习算法技术的自动化互联网数据获取技术和通用抽取引擎技术，自主创建规范的标准采集流程和评估指标，并获得多项发明专利，在此基础上研发数据采集系统：分布式互联网科技大数据采集&集成软件系统（PES++），它是一个集互联网论文、期刊、PDF抓取，数据集成和服务支持于一体的分布式、自动化、可配置的面向互联网学术信息抓取及管理平台，以支撑大数据智能系统获得海量、准确高效和可控易用的数据的需求。目前数据成果包括采集并集成科技新闻900万、科技活动（CFP）10万、专家信息3千万、Google Citation3千万、论文信息1.007亿条（其中高精度数据5.5千万条），累积抓取并检索数据量为2000GB。已合作用户包括：
 
-1）北京搜狗公司（面向微博空间兴趣点数据采集）
+## 代表性学术论文
 
-2）北京紫絮公司（微信数据获取及挖掘分析）
+1. Dan Zhang, Shaojie Zheng, Yifan Zhu, Huihui Yuan, **Jibing Gong\***, Jie Tang\*. MCAP: Low-Pass GNNs with Matrix Completion for Academic Recommendations. ACM Transactions on Information Systems (TOIS). 2014.  (CCF A类，SCI, IF=5.4)
 
-3）清华大学KEG（李涓子教授，互联网新闻采集，百度百科数据采集）
+2. **Jibing Gong**, Shen Wang, Jinlong Wang, Wenzheng Feng, Hao Peng, Jie Tang\*, Philip S. Yu. Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View. Sigir 2020, pp. 79-88. (国际顶级信息检索会议, CCF A类)
 
-4）南京知乎公司（互联网学术论文数据获取）
+3. **Gong J**, Wan Y, Liu Y, et al. Reinforced moocs concept recommendation in heterogeneous information networks[J]. ACM Transactions on the Web, 2022. (CCF B类)
 
-5）燕大材料国重实验室（材料性能数据采集）
+4. **Jibing Gong**, Xiaohan Fang, Jiquan Peng, Yi Zhao, Jinye Zhao, Chenlong Wang, Yangyang Li, Jingyi Zhang, Steve Drew   MORE: Toward Improving Author Name Disambiguation in Academic Knowledge Graphs. International Journal of Machine Learning and Cybernetics, 28 November 2022, p. 1-14. （IF-4.377）
 
-6）北京智谱AI公司（科技论文大数据、人才数据及通用知识数据等）
-## 数据标注
-目前已搭建面向人工智能大模型垂直域应用开发的数据标注团队，团队包括博士人员4名，硕士人员30名、本科人员40名。专业涵盖人工智能、电子信息、金融等方向。人员和专业优势可支撑完成高难度、高质量数据处理任务。实验室自主设计数据标注流程，如图1所示。
+5. **Gong, J.**; Wang, C.; Zhao, Z.; Zhang, X. Automatic Generation of Meta-Path Graph for Concept Recommendation in MOOCs. Electronics 2021, 10, 1671. （SCI检索）
 
-![alt text](/images/image.png)
+6. **Jibing Gong\***, Xinghao Zhang, Qing Li, Cheng Wang, Yaxi Song, Zhiyong Zhao, Shuli Wang. A Top-N Movie Recommendation Framework Based on Deep Neural Network with Heterogeneous Modeling[J]. Applied Sciences, pp.7418, 2021. （SCI检索）
 
+7. **Gong Jibing**, Gao Xiaoxia\*, Hong Cheng, Liu Jihui, Song Yanqing, Zhang Mantang, Zhao Yi. Integrating a weighted-average method into the random walk framework to generate individual friend recommendations. Science China, Inf Sci, 2017, 60(11). (SCI, IF=2.188)
 
-已为燕山大学继续教育学院标注问答数据1万条用于搭建问答大模型；标注高质量量化金融数据5万条，亚马逊科学研究英文问答数据1万条（后续更多）。为清华大学提供面向学术知识服务数据采集工具研发及最具影响力学者数据人工标注服务，为北京智谱AI公司提供交通运单大数据标注服务，并开发自主知识产权的数据标注系统（如图2所示）。
+8. Jie Tang, Ho-fung Leung, Qiong Luo, Dewei Chen, and **Jibing Gong**. Towards Ontology Learning from Folksonomies. IJCAI'09. pp. 2089-2095. (国际顶级人工智能会议, CCF A类)
 
- ![alt text](/images/image-1.png)
+9. **Jibing Gong\***, Lili Wang, Shengtao Sun, Siwei Peng. iBole: A Hybrid Multi-Layer Architecture for Doctor Recommendation in Medical Social Networks. JCST. 2015, Vol. 30, No. 5. pp. 1073-1080  (SCI, IF=0.956)
 
+10. **Jibing Gong\***, Jie Tang, and A. C. M. Fong. ACTPred: Activity Prediction in Mobile Social Networks. TSINGHUA SCIENCE AND TECHNOLOGY. 2014, Vol. 19, No. 3. pp. 255-274. (SCI, IF=2.016)
+
+11. **Jibing Gong\***, Li Cui, Kejiang Xiao, Rui Wang. MPD-Model: a distributed multipreference-driven data fusion model and its application in a WSNs-based healthcare monitoring system[J]. International Journal of Distributed Sensor Networks, Volume 2012: 1-13, 2012. (SCI, IF=1.640)
+
+12. **Jibing Gong\***, Shilong Lu, Rui Wang, et al. PDhms: pulse diagnosis via wearable Healthcare Sensor Network[C]. International Conference on Communications (ICC’11). Piscataway, NJ: IEEE, pp. 1-5, 2011. (通信领域三大国际会议之一)
+
+13. **宫继兵\***, 王睿, 王晓峰, 崔莉. 基于概率因子图模型的医疗社会网络用户健康状态检测方法[J]. 计算机研究与发展, 50(6): 1285-1296, 2013.（计算机领域三大学报之一，1B, EI检索）
+
+14. **宫继兵\***, 王睿, 崔莉. 体域网BSN的研究进展及面临的挑战，计算机研究与发展, 47(5), pp. 737-753, 2010.（计算机领域三大学报之一，1B, EI检索）
+
+15. **Jibing Gong\***, Xiaomeng Kou. Automatic Web Page Data Extraction through MD5 Trigeminal Tree and Improved BIRCH[C].International Conference on Robotics, Intelligent Control and Artificial Intelligence(2021 3rd ).Journal of Physics: Conference Series(ISSN: 1742-6596),2021.（EI检索）
+## 代表性专利成果
+
+(1)宫继兵, 张瀚允, 寇肖萌. 基于MD5三叉树和改进BIRCH算法的互联网论文数据自动抽取算法, CN113486228A. 公开日期: 2021.10.08.
+
+(2)宫继兵, 张兴浩, 杨凯伦.一种基于异构建模的深层神经网络 Top-N 推荐算法,CN113590964A. 公开日期: 2021.11.02. 
+
+(3)宫继兵,王成龙,房小涵. 一种基于层次Trans-CNN的多标签文本分类算法,CN113569049A. 公开日期: 2021.10.29.
+
+(4)宫继兵、彭吉全、房小涵、赵金烨、林宇庭，一种基于解耦表征和异构图软硬注意力网络的论文作者名称消歧方法，申请号：CN202211128279。
+
+(5)宫继兵、房小涵、彭吉全、赵祎、赵金烨、王成龙、黄朝园 基于对比学习和异构图注意力网络的作者名称消歧方法，申请号：CN202211151607。
+## 主要软著成果
+
+(1)宫继兵. 人体生理信息采集及健康状态检测分析软件系统 V1.0 登记号：2013R11L034426，2013年.
+
+(2)宫继兵, 等. 互联网科技大数据采集系统（CPS）V1.0, 登记号：2019SR0271219, 2018年08月02日.
+
+(3)宫继兵, 等. 分布式互联网科技论文信息采集及分析预测系统, 登记号：2017SR554582, 2017年06月12日.
+
+(4)宫继兵, 等. 社交网络新闻话题传播分析服务系统, 登记号：2017SR554573, 2016年08月08日.
+
+(5)宫继兵, 等. 分布式互联网新闻信息采集及检索系统, 登记号：2017SR554639, 2016年07月12日.
+
+(6)宫继兵, 等. 基于MVC的分期购物系统, 登记号：2019SR0310241, 2017年12月06日.
+
+(7)宫继兵, 等. 音乐推荐系统 V1.0, 登记号：2020SR1913919, 2020年07月10日.
+
+(8)宫继兵, 郭景峰, 张鹏起. 基于微结构的校园社交关系管理及分析系统 V1.0 (2013R11L034425).
+
+(9)宫继兵. 人体生理信息采集及健康状态检测分析软件系统 V1.0 (2013R11L034426).
+
+(10)宫继兵, 曾涛, 李斌. 高校毕业就业信息管理系统 V1.0 (2012SR019953).
