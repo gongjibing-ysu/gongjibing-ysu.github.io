@@ -23,42 +23,23 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "基本信息"
+  - title: "个人简介"
     url: /cv/
   
-  - title: "KEG实验室简介"
+  - title: "KEG实验室"
     url: /keg/
 
-  - title: "纵向科研项目"
-    url: /kyxm/
-
-  - title: "横向实践项目"
-    url: /hxxm/
+  - title: "主要项目"
+    url: /zyxm/
 
 
-  - title: "主要获奖情况"
-    url: /hjqk/ 
 
-  - title: "代表性学术论文"
-    url: /lw/
+  - title: "科研成果"
+    url: /kycg/
 
-  - title: "代表性专利成果"
-    url: /zlcg/
-
-  - title: "教材/著作"
-    url: /jczz/
-
-  - title: "主要软著成果"
-    url: /rzcg/
-
-  -  title: "数据获取"
-     url: /sjhq/
-
-  - title: "数据标注"
-    url: /sjbz/
-
-  - title: "教授课程"
-    url: /jskc/
+ 
+  -  title: "数据成果"
+     url: /sjcg/
 
   # - title: "CV"
   #   url: /cv-json/
