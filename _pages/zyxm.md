@@ -31,4 +31,17 @@ redirect_from:
 代表性横向实践项目情况如下图所示。
 
 
-<div align=center><img src="/images/image-2.png"></div>
+| **序号** | **名称** | **项目来源** | **起止时间** | **负责人** | 
+|:------:|:------:|:----:|:----:|:-----:|
+| 1|  秦皇岛移动公司采购平台 | 燕软公司| 2006.06~2006.10 | <span style="color: blue; font-weight: bold;">合作</span> |
+| 2| 学术信息挖掘系统| 清华大学 | 2007.06~2008.05| <span style="color: blue; font-weight: bold;">宫继兵</span>   |
+| 3|唐山移动采购平台(1期、Ⅱ期、川 期) | 唐山移动 | 2007.01-2013.07 | <span style="color: blue; font-weight: bold;">宫继兵</span>  |
+| 4| 唐山移动集团客户部案例共享平台 |  唐山移动|2008.12~2009.03 |<span style="color: blue; font-weight: bold;">宫继兵</span> |
+| 5| 唐山移动后勤综合管理平台(共9大子系统)|  唐山移动| 2009.01~2010.09| <span style="color: blue; font-weight: bold;">宫继兵</span>  |
+| 6|  燕山大学就业指导中心| 燕山大学 |2010.04~2010.10 | <span style="color: blue; font-weight: bold;">宫继兵</span>  |
+| 7|  移动业务支撑中心综合信息管理平台(工号设备管理)| 唐山移动|2011.08~2012.06 | <span style="color: blue; font-weight: bold;">宫继兵</span> |
+| 8|故宫博物院古建筑温湿度监测系统(EasiWeb 3.0l期工程<span style="color: blue; font-weight: bold;">II期工程</span> )  |  <span style="color: red; font-weight: bold;"中科院计算所</span>| 2013.07~2014.10 | <span style="color: blue; font-weight: bold;">宫继兵</span> |
+| 9| 分布式互联网新闻信息抽取系统(NES V1.0，NES V2.0NES V3.0<span style="color: blue; font-weight: bold;">正在筹备</span> )| 清华大学 | 2014.03~2015.02 |<span style="color: blue; font-weight: bold;">宫继兵</span>  |
+| 10|  分布式互联网学术论文大数据采集及检索系统 PES V1.0| 清华大学 |2015.06~2016.05 |<span style="color: blue; font-weight: bold;">宫继兵</span>  |
+| 11|基于UCL标签社交网络新闻智能分析服务系统Pais | 新华社 |2015.10~2016.09  | <span style="color: blue; font-weight: bold;">宫继兵</span> |
+| 12|  科技情报大数据采集加工及网络信息自动抽取工具研发| 清华大学 |2018.01~2018.12  | <span style="color: blue; font-weight: bold;">宫继兵</span>  |
