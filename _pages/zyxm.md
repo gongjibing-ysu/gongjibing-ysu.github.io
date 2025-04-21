@@ -38,7 +38,7 @@ redirect_from:
 | 3|唐山移动采购平台(1期、Ⅱ期、川 期) | 唐山移动 | 2007.01-2013.07 | <span style="color: blue; font-weight: bold;">宫继兵</span> |
 | 4| 唐山移动集团客户部案例共享平台 |  唐山移动|2008.12~2009.03 | <span style="color: blue; font-weight: bold;">宫继兵</span> |
 | 5| 唐山移动后勤综合管理平台(共9大子系统)|  唐山移动| 2009.01~2010.09| <span style="color: blue; font-weight: bold;">宫继兵</span> |
-| 6|  燕山大学就业指导中心| 燕山大学 |2010.04~2010.10 | <span style="color: blue; font-weight: bold;">宫继兵</span>  |
+| 6|  燕山大学就业指导中心| 燕山大学 |2010.04~2010.10 | <span style="color: blue; font-weight: bold;">宫继兵</span> |
 | 7|  移动业务支撑中心综合信息管理平台(工号设备管理)| 唐山移动|2011.08~2012.06 | <span style="color: blue; font-weight: bold;">宫继兵</span> |
 | 8|故宫博物院古建筑温湿度监测系统(EasiWeb 3.0l期工程<span style="color: blue;">II期工程</span> )  | 中科院计算所| 2013.07~2014.10 | <span style="color: blue; font-weight: bold;">宫继兵</span> |
 | 9| 分布式互联网新闻信息抽取系统(NES V1.0，NES V2.0NES V3.0<span style="color: blue; ">正在筹备</span> )| 清华大学 | 2014.03~2015.02 | <span style="color: blue; font-weight: bold;">宫继兵</span> |
