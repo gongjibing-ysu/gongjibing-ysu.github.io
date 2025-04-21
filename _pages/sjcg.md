@@ -34,8 +34,8 @@ redirect_from:
 | 5| 唐山移动后勤综合管理平台(共9大子系统)|  唐山移动| 2009.01~2010.09| <span style="color: blue; font-weight: bold;">宫继兵</span>  |
 | 6|  燕山大学就业指导中心| 燕山大学 |2010.04~2010.10 | <span style="color: blue; font-weight: bold;">宫继兵</span>  |
 | 7|  移动业务支撑中心综合信息管理平台(工号设备管理)| 唐山移动|2011.08~2012.06 | <span style="color: blue; font-weight: bold;">宫继兵</span> |
-| 8|故宫博物院古建筑温湿度监测系统(EasiWeb 3.0l期工程<span style="color: blue; font-weight: bold;">II期工程</span> )  |  中科院计算所| 2013.07~2014.10 | <span style="color: blue; font-weight: bold;">宫继兵</span> |
-| 9| 分布式互联网新闻信息抽取系统(NES V1.0，NES V2.0NES V3.0<span style="color: blue; font-weight: bold;">正在筹备</span> )| 清华大学 | 2014.03~2015.02 |<span style="color: blue; font-weight: bold;">宫继兵</span>  |
+| 8|故宫博物院古建筑温湿度监测系统(EasiWeb 3.0l期工程II期工程)  |  中科院计算所| 2013.07~2014.10 | <span style="color: blue; font-weight: bold;">宫继兵</span> |
+| 9| 分布式互联网新闻信息抽取系统(NES V1.0，NES V2.0NES V3.0正在筹备 )| 清华大学 | 2014.03~2015.02 |<span style="color: blue; font-weight: bold;">宫继兵</span>  |
 | 10|  分布式互联网学术论文大数据采集及检索系统 PES V1.0| 清华大学 |2015.06~2016.05 |<span style="color: blue; font-weight: bold;">宫继兵</span>  |
 | 11|基于UCL标签社交网络新闻智能分析服务系统Pais | 新华社 |2015.10~2016.09  | <span style="color: blue; font-weight: bold;">宫继兵</span> |
 | 12|  科技情报大数据采集加工及网络信息自动抽取工具研发| 清华大学 |2018.01~2018.12  | <span style="color: blue; font-weight: bold;">宫继兵</span>  |
@@ -43,5 +43,6 @@ redirect_from:
 
 已为燕山大学继续教育学院标注问答数据1万条用于搭建问答大模型；标注高质量量化金融数据5万条，亚马逊科学研究英文问答数据1万条（后续更多）。为清华大学提供面向学术知识服务数据采集工具研发及最具影响力学者数据人工标注服务，为北京智谱AI公司提供交通运单大数据标注服务，并开发自主知识产权的数据标注系统。
 
- ![alt text](/images/image-1.png)
+ <!-- ![alt text](/images/image-1.png#pic_center) -->
 
+<div align=center><img src="/images/image-1.png"></div>

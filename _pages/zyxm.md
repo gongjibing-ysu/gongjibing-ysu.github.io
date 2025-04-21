@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-# 纵向科研项目
+## 纵向科研项目
 
 代表性纵向科研项目情况如下表所示。
 
@@ -26,8 +26,9 @@ redirect_from:
 | **(军口) 启元实验室项目** | 分布式数据采集及集成软件系统 | 2022.09-2023.09 | 主持 | 面向互联网科技大数据分布式获取及集成研究 | <span style="color: gray; font-weight: bold;">已结题</span> |
 | **清华大学** | 知识图谱构建中智能预处理工具包服务 | 2021.09-2022.09 | 主持 | 基于深度学习的智能推理知识抽取 | <span style="color: gray; font-weight: bold;">已结题</span> |
 
-# 横向科研项目
+## 横向科研项目
 
-代表性横向实践项目情况如下图所示
+代表性横向实践项目情况如下图所示。
 
-![alt text](/images/image-2.png)
+
+<div align=center><img src="/images/image-2.png"></div>

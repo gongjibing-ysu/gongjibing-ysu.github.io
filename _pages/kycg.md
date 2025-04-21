@@ -40,6 +40,9 @@ redirect_from:
 14. **宫继兵\***, 王睿, 崔莉. 体域网BSN的研究进展及面临的挑战，计算机研究与发展, 47(5), pp. 737-753, 2010.（计算机领域三大学报之一，1B, EI检索）
 
 15. **Jibing Gong\***, Xiaomeng Kou. Automatic Web Page Data Extraction through MD5 Trigeminal Tree and Improved BIRCH[C].International Conference on Robotics, Intelligent Control and Artificial Intelligence(2021 3rd ).Journal of Physics: Conference Series(ISSN: 1742-6596),2021.（EI检索）
+
+
+
 ## 代表性专利成果
 
 (1)宫继兵, 张瀚允, 寇肖萌. 基于MD5三叉树和改进BIRCH算法的互联网论文数据自动抽取算法, CN113486228A. 公开日期: 2021.10.08.

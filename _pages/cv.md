@@ -5,6 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /
 ---
 
 {% include base_path %}
@@ -42,8 +43,7 @@ redirect_from:
 |研究者社会网络搜索与挖掘系统（ArnetMiner）|	人工智能学会进步奖一等奖|	国家级|
 |校园知识图谱搜索系统|	中国大学生计算机设计大赛二等奖|	国家级|
 |分布式互联网学术论文大数据检索及智能预测系统	|大学生创新训练计划项目	|国家级|
-|EasiWeb故宫古建筑环境信息监
-测及分析系统	|中国大学生服务外包创新创业大赛优胜团体奖	|国家级|
+|EasiWeb故宫古建筑环境信息监测及分析系统	|中国大学生服务外包创新创业大赛优胜团体奖	|国家级|
 |壁虎采集器|	“互联网+”大学生创新创业大赛优秀指导教师|	国家级|
 |基于 UCL 标签社交舆情智能分析系统 PaiS V1.0	|中国计算机学会（CCF）优秀大学生奖|	学会级|
 |分布式互联网海量新闻信息采集及检索系统|	中国大学生计算机设计大赛一等奖|	省级|
@@ -68,10 +68,70 @@ redirect_from:
 
 ## 教材/著作
 
- 1. **宫继兵**，巢进波，王开宇，张鹏，吴培良. **ChatGLM部署、微调与开发**. 机械工业出版社. 2024年12月. 56.8万字. 书号：978-7-111-76642-1.
 
-2. **宫继兵**. 可穿戴健康监测系统数据融合. 专著. 科学出版社. 2015年5月. 32.7万字（A类专著）
+ <table>
+    <tr>
+        <th>图片</th>
+        <th>书名</th>
+    </tr>
+    <tr>
+        <td><img src="/images/chatglm.png" alt="ChatGLM部署、微调与开发"></td>
+        <td>
+            <a href="http://m.cmpedu.com/books/book/5608849.htm" target="_blank">
+                <div class="book-title">ChatGLM部署、微调与开发</div>
+            </a>
+            <div class="book-info"><span class="author-bold">宫继兵</span>，巢进波，王开宇，张鹏，吴培良. 机械工业出版社. 2024年12月. 56.8万字. 书号：978-7-111-76642-1</div>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="/images/可穿戴健康监测系统数据融合.png" alt="可穿戴健康监测系统数据融合"></td>
+        <td>
+            <div class="book-title">可穿戴健康监测系统数据融合</div>
+            <div class="book-info"><span class="author-bold">宫继兵</span>. 专著. 科学出版社. 2015年5月. 32.7万字（A类专著）</div>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="/images/wireless.png" alt="Wireless Sensor Networks: Principles and Practice"></td>
+        <td>
+            <div class="book-title">Wireless Sensor Networks: Principles and Practice</div>
+            <div class="book-info">牛晓光, <span class="author-bold">宫继兵</span>. 译著. 机械工业出版社. 2015年03月. 27.2万字</div>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="/images/ASP.Net.png" alt="ASP.NET 2.0 Web数据库开发教程"></td>
+        <td>
+            <div class="book-title">ASP.NET 2.0 Web数据库开发教程</div>
+            <div class="book-info"><span class="author-bold">宫继兵</span>, 孙胜涛, 王颖, 王开宇, 刘佳. 高等院校规划教材. 机械工业出版社. 2009年01月. 64万字</div>
+        </td>
+    </tr>
+</table>
 
-3. 牛晓光, **宫继兵**. Wireless Sensor Networks: Principles and Practice. 译著. 机械工业出版社. 2015年03月. 27.2万字
 
-4. **宫继兵**, 孙胜涛, 王颖, 王开宇, 刘佳. ASP.NET 2.0 Web数据库开发教程. 高等院校规划教材. 机械工业出版社. 2009年01月. 64万字
+
+
+<style>
+
+ img {
+  width: 120px;
+  object-fit: cover; /* 保持图片比例并填充 */
+  display: block; /* 图片块级显示 */
+  margin: 0 auto; /* 图片居中 */
+ }
+
+ .book-info {
+  font-size: 0.9em; /* 调整书籍信息字体大小 */
+ }
+ .book-title {
+ font-weight: bold; /* 书名加粗 */
+ }
+
+  th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center; /* 文字居中 */
+            vertical-align: middle; /* 垂直居中 */
+        }
+  .author-bold {
+            font-weight: bold; /* 作者加粗 */
+        }
+</style>
